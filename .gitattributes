@@ -1,2 +1,2 @@
-*.inc linguist-language=assembly
-*.asm linguist-language=assembly
+*.inc linguist-language=asm
+*.asm linguist-language=asm
