@@ -1,2 +1,2 @@
-*.inc text diff=assembly
-*.asm text diff=assembly
+*.inc linguist-language=assembly
+*.asm linguist-language=assembly
